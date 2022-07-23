@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62dc2425060f24eb23eba74a"},"dado01":"A"}
+{"_id":{"$oid":"62dc242e060f24eb23eba74b"},"dado02":"B"}
+{"_id":{"$oid":"62dc2438060f24eb23eba74c"},"dado03":"C"}
